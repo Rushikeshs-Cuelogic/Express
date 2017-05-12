@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rushikeshs-Cuelogic/Express.git"
+  },
+  "keywords": [
+    "expresstest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rushikeshs-Cuelogic/Express/issues"
+  },
+  "homepage": "https://github.com/Rushikeshs-Cuelogic/Express#readme",
+  "dependencies": {
+    "node-dev": "^3.1.3"
+  }
+}
